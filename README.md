@@ -360,9 +360,9 @@ My goal is to build reliable, scalable, and practical AI solutions while continu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KrsnaOn&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6" />
+<img height="180em" src="./profile/stats.svg" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrsnaOn&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+<img height="180em" src="./profile/top-langs.svg" />
 
 <br/><br/>
 
