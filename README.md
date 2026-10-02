@@ -170,134 +170,79 @@ My goal is to build reliable, scalable, and practical AI solutions while continu
 
 ## FEATURED PROJECTS
 
-### 01. Local RAG — iSignal Research
+### 01. [Siri-LLM — Building an LLM From Scratch](https://github.com/KrsnaOn/Siri-LLM)
 
 <details>
 <summary><b>Explore Project Details</b></summary>
 
 <br/>
 
-**A local Retrieval-Augmented Generation system built using Ollama, FAISS, and sentence embeddings.**
+**An educational project that implements the building blocks of modern Large Language Models from first principles in Python.**
 
 | Attribute | Details |
 |:---|:---|
-| Stack | Python, Ollama, Llama 3, Llama 3.2, FAISS, Sentence Transformers |
-| Scale | Modular local document retrieval pipeline |
-| Performance | Local inference and semantic vector search |
-| Security | Local LLM inference and retrieval |
-| Impact | Enables context-aware question answering over ingested URLs |
-| Repository | [GitHub](https://github.com/KrsnaOn) |
+| Stack | Python, Jupyter Notebook, NumPy, PyTorch |
+| Focus | Tokenization, embeddings, attention, Transformer architecture |
+| Repository | [KrsnaOn/Siri-LLM](https://github.com/KrsnaOn/Siri-LLM) |
 
 **Key Features**
-- Built a complete local RAG pipeline using Ollama and FAISS.
-- Integrated Llama 3 and Llama 3.2 for local text generation.
-- Implemented semantic embeddings using `all-MiniLM-L6-v2`.
-- Developed a modular `iSignalRAG` class supporting live URL ingestion.
-- Created a terminal-based chatbot in `chat.py`.
-- Prepared a Jupyter notebook walkthrough for reproducibility.
-- Connected an earlier GPT-style transformer implementation to validate the retrieval and generation pipeline.
-
-**Engineering Focus**
-
-The system combines document ingestion, embedding generation, vector indexing, semantic retrieval, and local language model inference into a modular workflow.
+- Starts from raw text and builds step by step toward a complete Transformer-based language model.
+- Implements a custom tokenizer and token embeddings.
+- Explains how text becomes numbers, words become vectors, and how GPT predicts the next token.
+- Treats LLMs as glass boxes rather than black boxes, so each component can be studied on its own.
 
 </details>
 
-### 02. LLM Corpus Builder Pipeline — iSignal Research
+### 02. [Deal-ID Layer — Transaction-Level Freeze](https://github.com/KrsnaOn/Deal-ID-Layer-Transaction-level-freeze)
 
 <details>
 <summary><b>Explore Project Details</b></summary>
 
 <br/>
 
-**A modular data preparation pipeline for collecting, extracting, cleaning, and indexing LLM training data.**
+**A fintech prototype that freezes only a single disputed transaction instead of an entire bank account, built for the DCGC 2.0 Hack Sprint (GeeksforGeeks × Google Cloud).**
 
 | Attribute | Details |
 |:---|:---|
-| Stack | Python, Scrapy, Trafilatura, MinHash, FAISS |
-| Scale | Automated web crawling and corpus processing |
-| Performance | Near-duplicate detection and efficient indexing |
-| Security | Structured and controlled data processing |
-| Impact | Reliable preparation of training and retrieval corpora |
-| Repository | [GitHub](https://github.com/KrsnaOn) |
+| Stack | HTML, JavaScript, Firebase, Gemini API |
+| Problem | Indiscriminate collateral account freezes |
+| Live Demo | [dead-id.web.app](https://dead-id.web.app) |
+| Repository | [KrsnaOn/Deal-ID-Layer-Transaction-level-freeze](https://github.com/KrsnaOn/Deal-ID-Layer-Transaction-level-freeze) |
 
 **Key Features**
-- Designed and shipped a complete LLM corpus-building pipeline.
-- Implemented a Scrapy-based web crawler.
-- Integrated Trafilatura for content extraction.
-- Used MinHash for near-duplicate removal.
-- Implemented FAISS indexing.
-- Added automated tests for extraction and deduplication.
-- Achieved 43 passing tests.
-
-**Engineering Focus**
-
-The pipeline emphasizes modularity, data quality, reproducibility, and test coverage across the corpus preparation workflow.
+- Freezes only the disputed transaction, so the rest of the account keeps working.
+- Role-based authentication for Payer, Payee, and Reviewer.
+- Spike-explanation audit trail for every flagged transaction.
+- Optional Gemini-powered risk analysis.
 
 </details>
 
-### 03. NLP & Deep Learning Educational Content — iSignal Research
+### 03. [Sahi Jagah — Complaints That Reach the Right Desk](https://github.com/KrsnaOn/Sahi_Jagah)
 
 <details>
 <summary><b>Explore Project Details</b></summary>
 
 <br/>
 
-**Educational notebooks and learning materials covering transformer architectures, tokenization, and attention mechanisms.**
+**A grievance-routing prototype that sends citizen complaints to the right office and keeps them from dying there. Built for Build What Moves India (August 2026).**
 
 | Attribute | Details |
 |:---|:---|
-| Stack | Python, Jupyter Notebook, BPE, Transformers |
-| Scale | Multiple educational notebooks and presentation materials |
-| Performance | Reproducible, step-by-step implementations |
-| Security | Not applicable |
-| Impact | Supports learning and understanding of NLP and transformer concepts |
-| Repository | [GitHub](https://github.com/KrsnaOn) |
+| Stack | HTML, JavaScript, Vercel |
+| Problem | Complaints filed against the wrong ministry, state matters sent to central portals, missed appeal deadlines |
+| Live Demo | [sahi-jagah-t8k9.vercel.app](https://sahi-jagah-t8k9.vercel.app/) |
+| Repository | [KrsnaOn/Sahi_Jagah](https://github.com/KrsnaOn/Sahi_Jagah) |
 
 **Key Features**
-- Authored a Transformer Block deep-dive Jupyter notebook.
-- Explained layer normalization, GELU activations, and residual connections.
-- Implemented a `MiniGPT` class from scratch.
-- Built an NLP pipeline walkthrough from BPE tokenization to multi-head self-attention.
-- Trained a custom BPE tokenizer on 5G and telecom-domain vocabulary.
-- Visualized token and positional embeddings.
-- Designed a self-attention presentation deck for educational delivery.
+- Lets citizens describe what happened instead of picking a ministry from long dropdowns.
+- Flags state-level matters (water, roads, ration cards, certificates, police) that a central portal cannot act on.
+- Tracks deadlines and tells citizens when their right to appeal opens.
 
-**Engineering Focus**
-
-The project combines implementation and documentation to make transformer architecture concepts easier to understand and reproduce.
+*Independent prototype, not affiliated with or approved by any government ministry or department.*
 
 </details>
 
-### 04. Smart India Hackathon — Internal Qualifier 2025
-
-<details>
-<summary><b>Explore Project Details</b></summary>
-
-<br/>
-
-**AI-based problem-solving project developed as part of the Smart India Hackathon internal selection round.**
-
-| Attribute | Details |
-|:---|:---|
-| Stack | AI/ML, Prototyping, Problem Solving |
-| Scale | Team-based hackathon project |
-| Performance | Prototype development |
-| Security | Problem-dependent |
-| Impact | Qualified for the internal round |
-| Repository | [GitHub](https://github.com/KrsnaOn) |
-
-**Key Contributions**
-- Participated in the Smart India Hackathon internal round.
-- Contributed to ideation and solution design.
-- Worked on prototype development.
-- Presented the proposed solution as part of a team.
-
-**Achievement:** Qualified for the internal round at Shri Shankaracharya Technical Campus, Bhilai, in 2025.
-
-</details>
-
-
+---
 
 ## EXPERIENCE
 
@@ -372,8 +317,12 @@ The project combines implementation and documentation to make transformer archit
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/rjks0yBIsv/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://codeforces.com/profile/krsna_on">
+<img src="https://img.shields.io/badge/Codeforces-krsna__on-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
@@ -386,6 +335,21 @@ The project combines implementation and documentation to make transformer archit
 
 <a href="https://www.codechef.com/">
 <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/rjks0yBIsv/">
+<img src="https://leetcard.jacoblin.cool/rjks0yBIsv?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
+</a>
+
+<br/><br/>
+
+<a href="https://codeforces.com/profile/krsna_on">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dkrsna_on&query=%24.result%5B0%5D.rating&label=Codeforces%20Rating&color=1F8ACB&style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating" />
+</a>
+<a href="https://codeforces.com/profile/krsna_on">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dkrsna_on&query=%24.result%5B0%5D.rank&label=Codeforces%20Rank&color=6D28D9&style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rank" />
 </a>
 
 </div>
@@ -412,7 +376,7 @@ The project combines implementation and documentation to make transformer archit
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KrsnaOn&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=4" width="90%" />
+<img src="https://github-trophies.vercel.app/?username=KrsnaOn&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=4" width="90%" />
 
 </div>
 
@@ -422,7 +386,7 @@ The project combines implementation and documentation to make transformer archit
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrsnaOn&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+<img src="https://ghchart.rshah.org/8B5CF6/KrsnaOn" alt="Contribution Activity" width="100%" />
 
 </div>
 
