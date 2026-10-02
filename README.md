@@ -297,63 +297,7 @@ The project combines implementation and documentation to make transformer archit
 
 </details>
 
-### 05. AI Agent Development
 
-<details>
-<summary><b>Explore Project Details</b></summary>
-
-<br/>
-
-**Self-directed exploration of AI agents and LLM-driven automation workflows.**
-
-| Attribute | Details |
-|:---|:---|
-| Stack | Python, LangChain, OpenAI APIs |
-| Scale | Experimental automation workflows |
-| Performance | Under exploration |
-| Security | Under exploration |
-| Impact | Learning agent orchestration and automation |
-| Repository | [GitHub](https://github.com/KrsnaOn) |
-
-**Current Exploration**
-- LangChain-based AI agents.
-- OpenAI API integration.
-- Reasoning and memory workflows.
-- LLM-driven task orchestration.
-- Automation using language models.
-
-</details>
-
-### 06. Personal Web Portfolio
-
-<details>
-<summary><b>Explore Project Details</b></summary>
-
-<br/>
-
-**A personal portfolio website to showcase projects, technical skills, and development work.**
-
-| Attribute | Details |
-|:---|:---|
-| Stack | HTML, CSS, JavaScript |
-| Scale | Personal portfolio website |
-| Performance | In progress |
-| Security | Under development |
-| Impact | Centralized showcase of projects and live demos |
-| Repository | [GitHub](https://github.com/KrsnaOn) |
-
-**Planned Features**
-- Responsive web design.
-- Project showcase.
-- Live demonstrations.
-- GitHub repository links.
-- Technical skills and professional information.
-
-**Status:** In Progress.
-
-</details>
-
----
 
 ## EXPERIENCE
 
@@ -393,41 +337,36 @@ The project combines implementation and documentation to make transformer archit
 
 ---
 
+---
+
 ## CERTIFICATIONS
 
-### AWS
-
-<p>
-<img src="https://img.shields.io/badge/AWS-Certifications-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<p align="center">
+<img src="https://img.shields.io/badge/Certifications-7-6D28D9?style=for-the-badge&logo= credly&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Data%20%7C%20Cybersecurity-4F46E5?style=for-the-badge" />
 </p>
 
-Certifications: Not listed.
+### AI, Machine Learning & Generative AI
 
-### Oracle
+| Certification | Issuer | Issued | Credential ID |
+|:---|:---|:---:|:---|
+| **Quickstart: LangChain Essentials – Python** | LangChain Academy | May 2026 | `e6ffnrpaup` |
+| **Claude 101 – Certificate of Completion** | Anthropic | May 2026 | `pa8i6eng46ht` |
+| **Machine Learning for All** | University of London · Coursera | Nov 2025 | `3Y9AV4ZJRIGA` |
+| **Introduction to Generative AI** | Google Cloud | Nov 2025 | `RH2HH7N723D5` |
+| **Responsible AI: Applying AI Principles with Google Cloud** | Google Cloud | Nov 2025 | `F0ZQ80CQ3D84` |
 
-<p>
-<img src="https://img.shields.io/badge/Oracle-Certifications-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+### Job Simulations
 
-Certifications: Not listed.
+| Program | Issuer | Issued | Credential ID |
+|:---|:---|:---:|:---|
+| **Deloitte Australia – Data Analytics Job Simulation** | Forage | Nov 2025 | `LaRzHkyFCYuWGrp4u` |
+| **Deloitte Australia – Cyber Job Simulation** | Forage | Nov 2025 | `g6FSZS2n97wC5Fw8C` |
 
-### NPTEL
+**Skills covered:** Generative AI, LangChain, Python, LLM workflows, prompt engineering, AI agents, machine learning, model evaluation, responsible AI, data analytics, and cybersecurity.
 
-<p>
-<img src="https://img.shields.io/badge/NPTEL-Certifications-1D4ED8?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
 
-Certifications: Not listed.
 
-### Cisco
-
-<p>
-<img src="https://img.shields.io/badge/Cisco-Certifications-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-Certifications: Not listed.
-
----
 
 ## CODING PROFILES
 
