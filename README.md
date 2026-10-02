@@ -29,7 +29,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/KrsnaOn">
+<a href="https://portfolio-lemon-eta-89.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/krishnaon">
@@ -451,7 +451,7 @@ open_to:
 <img src="https://img.shields.io/badge/GitHub-KrsnaOn-312E81?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/KrsnaOn">
+<a href="https://portfolio-lemon-eta-89.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
