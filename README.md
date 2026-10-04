@@ -41,6 +41,12 @@
 <a href="https://github.com/KrsnaOn">
 <img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://discord.com/users/1327908995444244533">
+<img src="https://img.shields.io/badge/Discord-Message-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://www.reddit.com/user/Savings-Smile-9032/">
+<img src="https://img.shields.io/badge/Reddit-Follow-7C3AED?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
 
 <br/><br/>
 
@@ -455,9 +461,19 @@ open_to:
 <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
+<a href="https://discord.com/users/1327908995444244533">
+<img src="https://img.shields.io/badge/Discord-Krishna-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://www.reddit.com/user/Savings-Smile-9032/">
+<img src="https://img.shields.io/badge/Reddit-u%2FSavings--Smile--9032-6366F1?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+
 <br/><br/>
 
 **Email:** Krishnabarnwal484@gmail.com  
+**Discord:** [Message me](https://discord.com/users/1327908995444244533)  
+**Reddit:** [u/Savings-Smile-9032](https://www.reddit.com/user/Savings-Smile-9032/)  
 **Location:** Bhilai, Chhattisgarh, India
 
 </div>
