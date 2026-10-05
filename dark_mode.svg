@@ -66,7 +66,7 @@
     <text class="art" style="animation-delay:1.57s" x="28" y="495.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jj::::      |:::::jxxxxxxxj:::::: :::::::::j:   :_jjj:!jjjj|@|</text>
     <text x="429.6" y="113.0" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> KrsnaOn@github </tspan><tspan fill="#3d444d">──────────────────────────────────────────</tspan></text>
     <rect class="cover" style="animation-delay:0.6s" x="427.6" y="97.0" width="1014.0" height="22" fill="#0d1117"/>
-    <text x="429.6" y="133.0" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">............................</tspan><tspan fill="#c9d1d9"> 10 months, 29 days</tspan></text>
+    <text x="429.6" y="133.0" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">.............................</tspan><tspan fill="#c9d1d9"> 11 months, 0 days</tspan></text>
     <rect class="cover" style="animation-delay:0.96s" x="427.6" y="117.0" width="1014.0" height="22" fill="#0d1117"/>
     <text x="429.6" y="153.0" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Languages: </tspan><tspan fill="#484f58">.</tspan><tspan fill="#c9d1d9"> Jupyter Notebook 70%, TypeScript 11%, HTML 11%</tspan></text>
     <rect class="cover" style="animation-delay:1.32s" x="427.6" y="137.0" width="1014.0" height="22" fill="#0d1117"/>
